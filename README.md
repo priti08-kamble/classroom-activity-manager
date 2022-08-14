@@ -17,3 +17,4 @@ Class Manager contains more features like:
  10.User can see their profile through profile option.
  11.User can add profile picture and edit their profile through edit profile.
  12.User can also change their password if necessary.
+ 
